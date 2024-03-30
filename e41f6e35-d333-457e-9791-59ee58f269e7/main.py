@@ -1,4 +1,5 @@
-from surmount.base_class import Strategy, TargetAllocation
+from surmount.base_class import Strategy, TargetAllocation#trading view 
+
 from surmount.technical_indicators import EMA, MACD
 from surmount.logging import log
 
