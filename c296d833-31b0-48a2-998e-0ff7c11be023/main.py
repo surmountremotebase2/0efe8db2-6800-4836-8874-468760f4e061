@@ -1,4 +1,4 @@
-from surmount.base_class import Strategy, TargetAllocation
+from surmount.base_class import Strategy, Target Allocation #mt5
 from surmount.technical_indicators import RSI
 from surmount.logging import log
 
